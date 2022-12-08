@@ -163,6 +163,10 @@ div.contents > div.user-email {
   color: #000000;
 }
 
+#id, #email {
+  cursor: pointer;
+}
+
 div.contents > div.card-area {
   margin-top: 45px;
   margin-left: 50px;
